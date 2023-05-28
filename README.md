@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to RennysMedia!
+
+In this page, you'll see various sites owned by Rennys Media!
+
+1) <a href="http:r4ns4ck3d.remote.moe/blog"> Ransacked - Enthusiast News! </a>
 
 <!--
 **RennyDem/rennydem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
